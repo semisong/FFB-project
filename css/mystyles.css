@@ -1,0 +1,6 @@
+.nav-no-toggle:hover {
+  background: #fff;
+  color: #1b1b1b;
+  border-color: #f3f3f3;
+  border-bottom-color: transparent;
+}
