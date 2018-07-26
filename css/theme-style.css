@@ -4989,7 +4989,10 @@ small img {
 .navbar-expand-xl.navbar-main .navbar-nav .nav-link-dd-effect.active,
 .navbar-expand-xl .navbar-main .navbar-nav .nav-link-dd-effect:hover,
 .navbar-expand-xl .navbar-main .navbar-nav .nav-link-dd-effect.active {
-
+  background: #fff;
+  color: #1b1b1b;
+  border-color: #f3f3f3;
+  border-bottom: 1px solid #f3f3f3;
 }
 
 .navbar-expand-xl.navbar-main .navbar-nav-flush,
